@@ -1,0 +1,12 @@
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/bin/Debug/net8.0/TodoApp.Shared.deps.json
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/bin/Debug/net8.0/TodoApp.Shared.dll
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/bin/Debug/net8.0/TodoApp.Shared.pdb
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.AssemblyInfoInputs.cache
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.AssemblyInfo.cs
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.csproj.CoreCompileInputs.cache
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.sourcelink.json
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.dll
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/refint/TodoApp.Shared.dll
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/TodoApp.Shared.pdb
+/Users/munishgupta/projects/azure-dotnet/todo-cloud-demo/TodoApp.Shared/obj/Debug/net8.0/ref/TodoApp.Shared.dll

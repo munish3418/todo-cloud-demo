@@ -41,3 +41,22 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Build results
+bin/
+obj/
+*.log
+*.user
+*.suo
+*.vs/
+*.nupkg
+*.exe
+*.dll
+
+# Rider / VS Code / IDE folders
+.vscode/
+.idea/
+
+# Others
+*.gz
+*.wasm

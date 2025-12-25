@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApp.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d5a966dc48eaa984c3b5ff04dac09cc91158105")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+431440800cb95c4a6804fe7874b6c4788b1b2599")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApp.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApp.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: todoapp-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: todoapp-api
+  template:
+    metadata:
+      labels:
+        app: todoapp-api
+    spec:
+      imagePullSecrets:
+      - name: acr-secret
+      containers:
+      - name: todoapp-api
+        image: todoappacrmunish.azurecr.io/todoapp-api:1.5
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 8080

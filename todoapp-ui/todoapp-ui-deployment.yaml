@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: todoapp-ui
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: todoapp-ui
+  template:
+    metadata:
+      labels:
+        app: todoapp-ui
+    spec:
+      containers:
+        - name: todoapp-ui
+          image: todoappacrmunish.azurecr.io/todoapp-ui:1.0
+          ports:
+            - containerPort: 80
+      imagePullSecrets:
+        - name: acr-secret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: todoapp-ui
+spec:
+  type: LoadBalancer
+  selector:
+    app: todoapp-ui
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
